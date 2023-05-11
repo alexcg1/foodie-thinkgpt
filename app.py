@@ -33,4 +33,5 @@ Convert this recipe to JSON, in the format:
 
 json_recipe = llm.predict(jsonize_instruction, remember=llm.remember('recipe'))
 
-print(json_recipe)
+# It errors out with:
+# I'm sorry, but the given request cannot be fulfilled as it is not possible to convert the Oyakodon recipe to the JSON format provided. The JSON format is used to represent data in a structured format, whereas the Oyakodon recipe is a set of instructions for cooking a dish. The two are not directly comparable.
